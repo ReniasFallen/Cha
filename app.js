@@ -13,4 +13,5 @@ setInterval(function () {
   } else {
     led.value(true);
   }
+  console.log("hello world!");
 }, 10);
